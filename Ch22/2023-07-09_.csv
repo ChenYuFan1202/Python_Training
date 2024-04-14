@@ -1,0 +1,15 @@
+md-padding
+md-padding
+/
+https://www.facebook.com/weatherwidget.io/
+https://twitter.com/weatherwidgetio
+https://codepen.io/weatherwidget/
+https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fweatherwidget.io%2F&t=Weather%20Widget
+https://twitter.com/intent/tweet?source=http%3A%2F%2Fweatherwidget.io%2F&text=Weather%20Widget:%20http%3A%2F%2Fweatherwidget.io%2F
+mailto:?subject=Weather%20Widget&body=A%20free%2C%20customizable%2C%20responsive%20weather%20widget%20that%20can%20match%20any%20website.:%20http%3A%2F%2Fweatherwidget.io%2F
+//forecast7.com/{{o.language.code}}/{{o.location.url}}/{{o.unit.code == 'us' ? '?unit=us' : ''}}
+/terms/
+/contact/
+/privacy-policy/
+/terms/
+/contact/
