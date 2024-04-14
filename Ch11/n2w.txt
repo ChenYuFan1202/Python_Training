@@ -1,0 +1,11 @@
+0 = zero
+1 = one
+2 = two
+3 = three
+4 = four
+5 = five
+101 = one hundred one
+102 = one hundred two
+103 = one hundred three
+999,999 = nine hundred ninety nine thousand nine hundred ninety nine
+1,000,000,000,000,000 = Sorry, can't handle numbers with more than 15 digits
